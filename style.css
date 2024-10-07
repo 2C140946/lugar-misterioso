@@ -1,0 +1,30 @@
+ 
+ body {
+    background-color: rgb(80, 3, 87);
+    color:rgb(255, 255, 255);
+   font-family:cursive
+ }
+
+
+ button {
+    background-color: hsl(272, 95%, 40%);
+    color: white;
+    font-family: cursive;
+ }
+
+ .passo {
+   display: none;
+}
+
+.passo.ativo {
+   display:block;
+}
+
+main {
+   text-align: center;
+   max-width: 90%;
+}
+
+img {
+   max-width: 90%;
+}
